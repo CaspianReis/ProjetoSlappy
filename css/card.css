@@ -1,0 +1,30 @@
+
+.card {
+    background: #FFF;
+    border-radius: 20px;
+    box-shadow: 0px 2px 23px;
+}
+
+.media-card {
+    background: url(https://preview.redd.it/v5wpwfeedab11.jpg?auto=webp&s=be63fd9c62622f63cda75f25813850baee9a481b;) center/cover;
+    height: 100%;
+    width: 100%;
+}
+
+.title {
+    color: #2b3d59;
+}
+
+.top-card {
+    padding: 20px;
+}
+
+.bottom-card {
+    padding: 20px;
+}
+
+.actions {
+    background: none;
+    border: none;
+    color: purple; 
+}

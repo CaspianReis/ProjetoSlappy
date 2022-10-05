@@ -1,0 +1,8 @@
+body{
+	background:  rgba(28,17,75,1);
+	background-image: linear-gradient(0deg, rgba(28,17,75,1) 0%,
+	rgb(54, 39, 114) 31%,
+	rgba(97,63,237,1) 100%);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+}

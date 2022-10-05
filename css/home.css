@@ -1,0 +1,51 @@
+
+h2{
+	text-align: center;
+	color: white;
+	margin-top: 2em;
+}
+
+
+
+.icone{
+	height: 4.5vw;
+	margin-left: 0.5em;
+}
+
+
+.col{
+	color: white;
+}
+
+.row{
+	margin-top: 5em;
+}
+
+#pet{
+	height: 25em;
+}
+
+.botao{
+	text-align: center;
+}
+
+.btn{
+	border: 3px solid  transparent;
+	border-radius: 8px;
+	background-color: white;
+	margin: 2em 1em 0 1em;
+	font-size: 16px;
+	padding: 0.5em 1.2em;
+	text-decoration: none;
+}
+
+#texto{
+	text-align: justify;
+}
+
+#desconectar{
+	border-radius: 8px;
+	text-align: center;
+	background-color: white;
+}
+
